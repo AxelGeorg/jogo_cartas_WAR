@@ -1,0 +1,543 @@
+
+[2022-05-23 17:29:45.383260] Rodade 1
+[2022-05-23 17:29:45.384235] Jogador a retirou a carta SETE
+[2022-05-23 17:29:45.384731] Jogador b retirou a carta RAINHA
+[2022-05-23 17:29:45.385228] Jogador c retirou a carta CINCO
+[2022-05-23 17:29:45.385228] Jogador d retirou a carta QUATRO
+[2022-05-23 17:29:45.385722] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.386218] Rodade 2
+[2022-05-23 17:29:45.386714] Jogador a retirou a carta RAINHA
+[2022-05-23 17:29:45.387210] Jogador b retirou a carta NOVE
+[2022-05-23 17:29:45.387708] Jogador c retirou a carta TRES
+[2022-05-23 17:29:45.387708] Jogador d retirou a carta DOIS
+[2022-05-23 17:29:45.388202] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.388698] Rodade 3
+[2022-05-23 17:29:45.389195] Jogador a retirou a carta REI
+[2022-05-23 17:29:45.389195] Jogador b retirou a carta A
+[2022-05-23 17:29:45.389692] Jogador c retirou a carta DEZ
+[2022-05-23 17:29:45.390187] Jogador d retirou a carta A
+[2022-05-23 17:29:45.390683] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.391180] Rodade 4
+[2022-05-23 17:29:45.391180] Jogador a retirou a carta A
+[2022-05-23 17:29:45.391674] Jogador b retirou a carta REI
+[2022-05-23 17:29:45.392170] Jogador c retirou a carta CINCO
+[2022-05-23 17:29:45.392666] Jogador d retirou a carta SEIS
+[2022-05-23 17:29:45.393162] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.393162] Rodade 5
+[2022-05-23 17:29:45.393658] Jogador a retirou a carta VALETE
+[2022-05-23 17:29:45.394154] Jogador b retirou a carta OITO
+[2022-05-23 17:29:45.394154] Jogador c retirou a carta DOIS
+[2022-05-23 17:29:45.394650] Jogador d retirou a carta SETE
+[2022-05-23 17:29:45.395147] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.395642] Rodade 6
+[2022-05-23 17:29:45.395642] Jogador a retirou a carta NOVE
+[2022-05-23 17:29:45.396139] Jogador b retirou a carta RAINHA
+[2022-05-23 17:29:45.396635] Jogador c retirou a carta QUATRO
+[2022-05-23 17:29:45.397132] Jogador d retirou a carta SETE
+[2022-05-23 17:29:45.397626] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.398123] Rodade 7
+[2022-05-23 17:29:45.398123] Jogador a retirou a carta DOIS
+[2022-05-23 17:29:45.398618] Jogador b retirou a carta REI
+[2022-05-23 17:29:45.399115] Jogador c retirou a carta NOVE
+[2022-05-23 17:29:45.399115] Jogador d retirou a carta OITO
+[2022-05-23 17:29:45.399611] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.400106] Rodade 8
+[2022-05-23 17:29:45.400602] Jogador a retirou a carta OITO
+[2022-05-23 17:29:45.400602] Jogador b retirou a carta NOVE
+[2022-05-23 17:29:45.401098] Jogador c retirou a carta DEZ
+[2022-05-23 17:29:45.401594] Jogador d retirou a carta DEZ
+[2022-05-23 17:29:45.401594] Jogador a retirou a carta RAINHA
+[2022-05-23 17:29:45.402090] Jogador b retirou a carta A
+[2022-05-23 17:29:45.402587] Jogador c retirou a carta CINCO
+[2022-05-23 17:29:45.403083] Jogador d retirou a carta TRES
+[2022-05-23 17:29:45.403083] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.403578] Rodade 9
+[2022-05-23 17:29:45.404075] Jogador a retirou a carta TRES
+[2022-05-23 17:29:45.404570] Jogador b retirou a carta VALETE
+[2022-05-23 17:29:45.404570] Jogador c retirou a carta QUATRO
+[2022-05-23 17:29:45.405066] Jogador d retirou a carta TRES
+[2022-05-23 17:29:45.405563] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.405563] Rodade 10
+[2022-05-23 17:29:45.406058] Jogador a retirou a carta OITO
+[2022-05-23 17:29:45.406555] Jogador b retirou a carta QUATRO
+[2022-05-23 17:29:45.406555] Jogador c retirou a carta SEIS
+[2022-05-23 17:29:45.407050] Jogador d retirou a carta SEIS
+[2022-05-23 17:29:45.407546] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.408042] Rodade 11
+[2022-05-23 17:29:45.408042] Jogador a retirou a carta VALETE
+[2022-05-23 17:29:45.408540] Jogador b retirou a carta SETE
+[2022-05-23 17:29:45.409034] Jogador c retirou a carta VALETE
+[2022-05-23 17:29:45.409530] Jogador d retirou a carta SEIS
+[2022-05-23 17:29:45.409530] Jogador a retirou a carta DEZ
+[2022-05-23 17:29:45.410028] Jogador b retirou a carta REI
+[2022-05-23 17:29:45.410523] Jogador c retirou a carta CINCO
+[2022-05-23 17:29:45.411018] Jogador d retirou a carta DOIS
+[2022-05-23 17:29:45.411515] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.411515] Rodade 12
+[2022-05-23 17:29:45.412010] Jogador a retirou a carta RAINHA
+[2022-05-23 17:29:45.412506] Jogador b retirou a carta SETE
+[2022-05-23 17:29:45.413003] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.413498] Rodade 13
+[2022-05-23 17:29:45.413996] Jogador a retirou a carta NOVE
+[2022-05-23 17:29:45.413996] Jogador b retirou a carta RAINHA
+[2022-05-23 17:29:45.414490] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.414986] Rodade 14
+[2022-05-23 17:29:45.415484] Jogador a retirou a carta TRES
+[2022-05-23 17:29:45.415484] Jogador b retirou a carta CINCO
+[2022-05-23 17:29:45.415979] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.416475] Rodade 15
+[2022-05-23 17:29:45.416475] Jogador a retirou a carta DOIS
+[2022-05-23 17:29:45.416970] Jogador b retirou a carta QUATRO
+[2022-05-23 17:29:45.417466] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.417964] Rodade 16
+[2022-05-23 17:29:45.417964] Jogador a retirou a carta REI
+[2022-05-23 17:29:45.418459] Jogador b retirou a carta A
+[2022-05-23 17:29:45.418954] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.418954] Rodade 17
+[2022-05-23 17:29:45.419451] Jogador a retirou a carta A
+[2022-05-23 17:29:45.419947] Jogador b retirou a carta REI
+[2022-05-23 17:29:45.420442] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.420442] Rodade 18
+[2022-05-23 17:29:45.420938] Jogador a retirou a carta DEZ
+[2022-05-23 17:29:45.421434] Jogador b retirou a carta CINCO
+[2022-05-23 17:29:45.421434] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.421930] Rodade 19
+[2022-05-23 17:29:45.422427] Jogador a retirou a carta A
+[2022-05-23 17:29:45.422924] Jogador b retirou a carta SEIS
+[2022-05-23 17:29:45.422924] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.423419] Rodade 20
+[2022-05-23 17:29:45.423916] Jogador a retirou a carta VALETE
+[2022-05-23 17:29:45.424410] Jogador b retirou a carta NOVE
+[2022-05-23 17:29:45.424410] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.424906] Rodade 21
+[2022-05-23 17:29:45.425404] Jogador a retirou a carta OITO
+[2022-05-23 17:29:45.425898] Jogador b retirou a carta RAINHA
+[2022-05-23 17:29:45.425898] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.426394] Rodade 22
+[2022-05-23 17:29:45.426892] Jogador a retirou a carta DOIS
+[2022-05-23 17:29:45.426892] Jogador b retirou a carta QUATRO
+[2022-05-23 17:29:45.427387] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.427882] Rodade 23
+[2022-05-23 17:29:45.428378] Jogador a retirou a carta SETE
+[2022-05-23 17:29:45.428378] Jogador b retirou a carta SETE
+[2022-05-23 17:29:45.428875] Jogador a retirou a carta OITO
+[2022-05-23 17:29:45.429370] Jogador b retirou a carta DOIS
+[2022-05-23 17:29:45.429866] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.430362] Rodade 24
+[2022-05-23 17:29:45.430858] Jogador a retirou a carta NOVE
+[2022-05-23 17:29:45.430858] Jogador b retirou a carta REI
+[2022-05-23 17:29:45.431355] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.431850] Rodade 25
+[2022-05-23 17:29:45.432346] Jogador a retirou a carta DEZ
+[2022-05-23 17:29:45.432346] Jogador b retirou a carta NOVE
+[2022-05-23 17:29:45.432843] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.433338] Rodade 26
+[2022-05-23 17:29:45.433834] Jogador a retirou a carta DEZ
+[2022-05-23 17:29:45.434330] Jogador b retirou a carta OITO
+[2022-05-23 17:29:45.434826] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.435322] Rodade 27
+[2022-05-23 17:29:45.435818] Jogador a retirou a carta RAINHA
+[2022-05-23 17:29:45.436315] Jogador b retirou a carta TRES
+[2022-05-23 17:29:45.436810] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.437306] Rodade 28
+[2022-05-23 17:29:45.437802] Jogador a retirou a carta A
+[2022-05-23 17:29:45.438298] Jogador b retirou a carta VALETE
+[2022-05-23 17:29:45.438794] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.439290] Rodade 29
+[2022-05-23 17:29:45.439786] Jogador a retirou a carta CINCO
+[2022-05-23 17:29:45.440282] Jogador b retirou a carta QUATRO
+[2022-05-23 17:29:45.440778] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.441276] Rodade 30
+[2022-05-23 17:29:45.441770] Jogador a retirou a carta TRES
+[2022-05-23 17:29:45.442266] Jogador b retirou a carta TRES
+[2022-05-23 17:29:45.442762] Jogador a retirou a carta OITO
+[2022-05-23 17:29:45.442762] Jogador b retirou a carta NOVE
+[2022-05-23 17:29:45.443258] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.444250] Rodade 31
+[2022-05-23 17:29:45.444747] Jogador a retirou a carta QUATRO
+[2022-05-23 17:29:45.445242] Jogador b retirou a carta RAINHA
+[2022-05-23 17:29:45.445738] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.446234] Rodade 32
+[2022-05-23 17:29:45.446730] Jogador a retirou a carta SEIS
+[2022-05-23 17:29:45.446730] Jogador b retirou a carta TRES
+[2022-05-23 17:29:45.447723] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.448218] Rodade 33
+[2022-05-23 17:29:45.448714] Jogador a retirou a carta SEIS
+[2022-05-23 17:29:45.449212] Jogador b retirou a carta CINCO
+[2022-05-23 17:29:45.449706] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.450202] Rodade 34
+[2022-05-23 17:29:45.450202] Jogador a retirou a carta VALETE
+[2022-05-23 17:29:45.450698] Jogador b retirou a carta DOIS
+[2022-05-23 17:29:45.451194] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.451690] Rodade 35
+[2022-05-23 17:29:45.452186] Jogador a retirou a carta SETE
+[2022-05-23 17:29:45.453179] Jogador b retirou a carta QUATRO
+[2022-05-23 17:29:45.453692] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.454170] Rodade 36
+[2022-05-23 17:29:45.454666] Jogador a retirou a carta VALETE
+[2022-05-23 17:29:45.455162] Jogador b retirou a carta A
+[2022-05-23 17:29:45.455658] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.456155] Rodade 37
+[2022-05-23 17:29:45.456651] Jogador a retirou a carta SEIS
+[2022-05-23 17:29:45.457146] Jogador b retirou a carta REI
+[2022-05-23 17:29:45.457642] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.458138] Rodade 38
+[2022-05-23 17:29:45.458634] Jogador a retirou a carta DEZ
+[2022-05-23 17:29:45.459130] Jogador b retirou a carta A
+[2022-05-23 17:29:45.459626] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.460122] Rodade 39
+[2022-05-23 17:29:45.460618] Jogador a retirou a carta REI
+[2022-05-23 17:29:45.461114] Jogador b retirou a carta SEIS
+[2022-05-23 17:29:45.462106] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.462602] Rodade 40
+[2022-05-23 17:29:45.462602] Jogador a retirou a carta CINCO
+[2022-05-23 17:29:45.463098] Jogador b retirou a carta OITO
+[2022-05-23 17:29:45.464090] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.464586] Rodade 41
+[2022-05-23 17:29:45.465082] Jogador a retirou a carta DOIS
+[2022-05-23 17:29:45.465578] Jogador b retirou a carta RAINHA
+[2022-05-23 17:29:45.466075] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.466570] Rodade 42
+[2022-05-23 17:29:45.467066] Jogador a retirou a carta RAINHA
+[2022-05-23 17:29:45.467562] Jogador b retirou a carta DOIS
+[2022-05-23 17:29:45.468058] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.468554] Rodade 43
+[2022-05-23 17:29:45.469050] Jogador a retirou a carta SETE
+[2022-05-23 17:29:45.469546] Jogador b retirou a carta QUATRO
+[2022-05-23 17:29:45.470042] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.470538] Rodade 44
+[2022-05-23 17:29:45.471034] Jogador a retirou a carta REI
+[2022-05-23 17:29:45.471034] Jogador b retirou a carta NOVE
+[2022-05-23 17:29:45.471530] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.472026] Rodade 45
+[2022-05-23 17:29:45.472522] Jogador a retirou a carta A
+[2022-05-23 17:29:45.473018] Jogador b retirou a carta REI
+[2022-05-23 17:29:45.473514] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.474010] Rodade 46
+[2022-05-23 17:29:45.474506] Jogador a retirou a carta DEZ
+[2022-05-23 17:29:45.475002] Jogador b retirou a carta A
+[2022-05-23 17:29:45.475498] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.475994] Rodade 47
+[2022-05-23 17:29:45.476490] Jogador a retirou a carta CINCO
+[2022-05-23 17:29:45.476986] Jogador b retirou a carta VALETE
+[2022-05-23 17:29:45.477482] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.477979] Rodade 48
+[2022-05-23 17:29:45.478475] Jogador a retirou a carta VALETE
+[2022-05-23 17:29:45.478970] Jogador b retirou a carta TRES
+[2022-05-23 17:29:45.479466] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.479962] Rodade 49
+[2022-05-23 17:29:45.480458] Jogador a retirou a carta NOVE
+[2022-05-23 17:29:45.481451] Jogador b retirou a carta TRES
+[2022-05-23 17:29:45.481946] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.482442] Rodade 50
+[2022-05-23 17:29:45.482940] Jogador a retirou a carta SETE
+[2022-05-23 17:29:45.482940] Jogador b retirou a carta OITO
+[2022-05-23 17:29:45.483930] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.484438] Rodade 51
+[2022-05-23 17:29:45.484924] Jogador a retirou a carta SETE
+[2022-05-23 17:29:45.485418] Jogador b retirou a carta NOVE
+[2022-05-23 17:29:45.485925] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.486906] Rodade 52
+[2022-05-23 17:29:45.486906] Jogador a retirou a carta OITO
+[2022-05-23 17:29:45.487402] Jogador b retirou a carta QUATRO
+[2022-05-23 17:29:45.487898] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.488394] Rodade 53
+[2022-05-23 17:29:45.488890] Jogador a retirou a carta DOIS
+[2022-05-23 17:29:45.489387] Jogador b retirou a carta RAINHA
+[2022-05-23 17:29:45.489883] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.490378] Rodade 54
+[2022-05-23 17:29:45.490874] Jogador a retirou a carta DEZ
+[2022-05-23 17:29:45.491370] Jogador b retirou a carta SEIS
+[2022-05-23 17:29:45.491868] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.491868] Rodade 55
+[2022-05-23 17:29:45.492362] Jogador a retirou a carta NOVE
+[2022-05-23 17:29:45.492858] Jogador b retirou a carta REI
+[2022-05-23 17:29:45.493354] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.493851] Rodade 56
+[2022-05-23 17:29:45.494346] Jogador a retirou a carta DEZ
+[2022-05-23 17:29:45.494843] Jogador b retirou a carta CINCO
+[2022-05-23 17:29:45.495340] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.495834] Rodade 57
+[2022-05-23 17:29:45.496331] Jogador a retirou a carta OITO
+[2022-05-23 17:29:45.496827] Jogador b retirou a carta OITO
+[2022-05-23 17:29:45.497323] Jogador a retirou a carta RAINHA
+[2022-05-23 17:29:45.497820] Jogador b retirou a carta DOIS
+[2022-05-23 17:29:45.498316] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.498811] Rodade 58
+[2022-05-23 17:29:45.499307] Jogador a retirou a carta TRES
+[2022-05-23 17:29:45.499307] Jogador b retirou a carta RAINHA
+[2022-05-23 17:29:45.499803] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.500298] Rodade 59
+[2022-05-23 17:29:45.500795] Jogador a retirou a carta CINCO
+[2022-05-23 17:29:45.501290] Jogador b retirou a carta A
+[2022-05-23 17:29:45.501786] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.502283] Rodade 60
+[2022-05-23 17:29:45.502283] Jogador a retirou a carta QUATRO
+[2022-05-23 17:29:45.502778] Jogador b retirou a carta REI
+[2022-05-23 17:29:45.503274] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.503770] Rodade 61
+[2022-05-23 17:29:45.503770] Jogador a retirou a carta SEIS
+[2022-05-23 17:29:45.504266] Jogador b retirou a carta CINCO
+[2022-05-23 17:29:45.504762] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.504762] Rodade 62
+[2022-05-23 17:29:45.505258] Jogador a retirou a carta TRES
+[2022-05-23 17:29:45.505754] Jogador b retirou a carta VALETE
+[2022-05-23 17:29:45.506251] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.506251] Rodade 63
+[2022-05-23 17:29:45.506746] Jogador a retirou a carta SEIS
+[2022-05-23 17:29:45.507242] Jogador b retirou a carta SETE
+[2022-05-23 17:29:45.507242] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.507738] Rodade 64
+[2022-05-23 17:29:45.508234] Jogador a retirou a carta CINCO
+[2022-05-23 17:29:45.508234] Jogador b retirou a carta OITO
+[2022-05-23 17:29:45.508730] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.509227] Rodade 65
+[2022-05-23 17:29:45.509722] Jogador a retirou a carta VALETE
+[2022-05-23 17:29:45.509722] Jogador b retirou a carta SETE
+[2022-05-23 17:29:45.510218] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.510715] Rodade 66
+[2022-05-23 17:29:45.511211] Jogador a retirou a carta DOIS
+[2022-05-23 17:29:45.511211] Jogador b retirou a carta NOVE
+[2022-05-23 17:29:45.511707] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.512203] Rodade 67
+[2022-05-23 17:29:45.512699] Jogador a retirou a carta SETE
+[2022-05-23 17:29:45.513194] Jogador b retirou a carta DOIS
+[2022-05-23 17:29:45.516170] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.517162] Rodade 68
+[2022-05-23 17:29:45.517658] Jogador a retirou a carta QUATRO
+[2022-05-23 17:29:45.518650] Jogador b retirou a carta RAINHA
+[2022-05-23 17:29:45.519146] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.519642] Rodade 69
+[2022-05-23 17:29:45.520138] Jogador a retirou a carta VALETE
+[2022-05-23 17:29:45.520634] Jogador b retirou a carta NOVE
+[2022-05-23 17:29:45.521130] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.521626] Rodade 70
+[2022-05-23 17:29:45.522123] Jogador a retirou a carta A
+[2022-05-23 17:29:45.522618] Jogador b retirou a carta REI
+[2022-05-23 17:29:45.523114] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.523610] Rodade 71
+[2022-05-23 17:29:45.524106] Jogador a retirou a carta DEZ
+[2022-05-23 17:29:45.524602] Jogador b retirou a carta TRES
+[2022-05-23 17:29:45.525594] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.526090] Rodade 72
+[2022-05-23 17:29:45.526586] Jogador a retirou a carta A
+[2022-05-23 17:29:45.527082] Jogador b retirou a carta RAINHA
+[2022-05-23 17:29:45.528074] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.528570] Rodade 73
+[2022-05-23 17:29:45.529066] Jogador a retirou a carta REI
+[2022-05-23 17:29:45.529562] Jogador b retirou a carta QUATRO
+[2022-05-23 17:29:45.530058] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.530554] Rodade 74
+[2022-05-23 17:29:45.531050] Jogador a retirou a carta SEIS
+[2022-05-23 17:29:45.531546] Jogador b retirou a carta REI
+[2022-05-23 17:29:45.532538] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.533034] Rodade 75
+[2022-05-23 17:29:45.533034] Jogador a retirou a carta RAINHA
+[2022-05-23 17:29:45.533531] Jogador b retirou a carta TRES
+[2022-05-23 17:29:45.534027] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.534522] Rodade 76
+[2022-05-23 17:29:45.535019] Jogador a retirou a carta DOIS
+[2022-05-23 17:29:45.535514] Jogador b retirou a carta VALETE
+[2022-05-23 17:29:45.536011] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.536507] Rodade 77
+[2022-05-23 17:29:45.536507] Jogador a retirou a carta SETE
+[2022-05-23 17:29:45.537003] Jogador b retirou a carta SEIS
+[2022-05-23 17:29:45.537499] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.537995] Rodade 78
+[2022-05-23 17:29:45.538490] Jogador a retirou a carta QUATRO
+[2022-05-23 17:29:45.538490] Jogador b retirou a carta SETE
+[2022-05-23 17:29:45.539482] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.539482] Rodade 79
+[2022-05-23 17:29:45.539978] Jogador a retirou a carta REI
+[2022-05-23 17:29:45.540474] Jogador b retirou a carta CINCO
+[2022-05-23 17:29:45.540971] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.541466] Rodade 80
+[2022-05-23 17:29:45.541962] Jogador a retirou a carta NOVE
+[2022-05-23 17:29:45.542458] Jogador b retirou a carta OITO
+[2022-05-23 17:29:45.542954] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.543450] Rodade 81
+[2022-05-23 17:29:45.543450] Jogador a retirou a carta DEZ
+[2022-05-23 17:29:45.543946] Jogador b retirou a carta DOIS
+[2022-05-23 17:29:45.544442] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.544939] Rodade 82
+[2022-05-23 17:29:45.545434] Jogador a retirou a carta A
+[2022-05-23 17:29:45.545930] Jogador b retirou a carta NOVE
+[2022-05-23 17:29:45.546426] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.546922] Rodade 83
+[2022-05-23 17:29:45.547418] Jogador a retirou a carta VALETE
+[2022-05-23 17:29:45.547914] Jogador b retirou a carta QUATRO
+[2022-05-23 17:29:45.548410] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.548906] Rodade 84
+[2022-05-23 17:29:45.549402] Jogador a retirou a carta TRES
+[2022-05-23 17:29:45.549402] Jogador b retirou a carta RAINHA
+[2022-05-23 17:29:45.549899] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.550394] Rodade 85
+[2022-05-23 17:29:45.550890] Jogador a retirou a carta NOVE
+[2022-05-23 17:29:45.550890] Jogador b retirou a carta A
+[2022-05-23 17:29:45.551386] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.551882] Rodade 86
+[2022-05-23 17:29:45.552378] Jogador a retirou a carta TRES
+[2022-05-23 17:29:45.552378] Jogador b retirou a carta REI
+[2022-05-23 17:29:45.552874] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.553370] Rodade 87
+[2022-05-23 17:29:45.553866] Jogador a retirou a carta OITO
+[2022-05-23 17:29:45.553866] Jogador b retirou a carta A
+[2022-05-23 17:29:45.554362] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.554859] Rodade 88
+[2022-05-23 17:29:45.555355] Jogador a retirou a carta QUATRO
+[2022-05-23 17:29:45.555355] Jogador b retirou a carta RAINHA
+[2022-05-23 17:29:45.555850] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.556347] Rodade 89
+[2022-05-23 17:29:45.556347] Jogador a retirou a carta DEZ
+[2022-05-23 17:29:45.556842] Jogador b retirou a carta SEIS
+[2022-05-23 17:29:45.557338] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.557834] Rodade 90
+[2022-05-23 17:29:45.557834] Jogador a retirou a carta SEIS
+[2022-05-23 17:29:45.558330] Jogador b retirou a carta REI
+[2022-05-23 17:29:45.558826] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.558826] Rodade 91
+[2022-05-23 17:29:45.559322] Jogador a retirou a carta DEZ
+[2022-05-23 17:29:45.559818] Jogador b retirou a carta DOIS
+[2022-05-23 17:29:45.559818] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.560314] Rodade 92
+[2022-05-23 17:29:45.560811] Jogador a retirou a carta CINCO
+[2022-05-23 17:29:45.561307] Jogador b retirou a carta VALETE
+[2022-05-23 17:29:45.561307] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.561802] Rodade 93
+[2022-05-23 17:29:45.562299] Jogador a retirou a carta OITO
+[2022-05-23 17:29:45.562794] Jogador b retirou a carta QUATRO
+[2022-05-23 17:29:45.563290] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.563786] Rodade 94
+[2022-05-23 17:29:45.564282] Jogador a retirou a carta OITO
+[2022-05-23 17:29:45.564779] Jogador b retirou a carta SETE
+[2022-05-23 17:29:45.565274] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.565770] Rodade 95
+[2022-05-23 17:29:45.566266] Jogador a retirou a carta RAINHA
+[2022-05-23 17:29:45.566762] Jogador b retirou a carta A
+[2022-05-23 17:29:45.567258] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.567754] Rodade 96
+[2022-05-23 17:29:45.568250] Jogador a retirou a carta DOIS
+[2022-05-23 17:29:45.568746] Jogador b retirou a carta NOVE
+[2022-05-23 17:29:45.569242] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.569242] Rodade 97
+[2022-05-23 17:29:45.569738] Jogador a retirou a carta CINCO
+[2022-05-23 17:29:45.570234] Jogador b retirou a carta TRES
+[2022-05-23 17:29:45.570730] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.571226] Rodade 98
+[2022-05-23 17:29:45.571722] Jogador a retirou a carta A
+[2022-05-23 17:29:45.572218] Jogador b retirou a carta RAINHA
+[2022-05-23 17:29:45.572714] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.573210] Rodade 99
+[2022-05-23 17:29:45.573706] Jogador a retirou a carta SEIS
+[2022-05-23 17:29:45.574202] Jogador b retirou a carta TRES
+[2022-05-23 17:29:45.574698] - Jogador a ganhou a rodada!
+
+[2022-05-23 17:29:45.575194] Rodade 100
+[2022-05-23 17:29:45.575194] Jogador a retirou a carta CINCO
+[2022-05-23 17:29:45.575690] Jogador b retirou a carta REI
+[2022-05-23 17:29:45.576186] - Jogador b ganhou a rodada!
+
+[2022-05-23 17:29:45.576682] Fim do Jogo!
+[2022-05-23 17:29:45.577178] Jogo Empatado!
+[2022-05-23 17:29:45.577675] Jogador a possui 40 cartas.
+[2022-05-23 17:29:45.578170] Jogador b possui 12 cartas.
+[2022-05-23 17:29:45.579162] Jogador c possui 0 cartas.
+[2022-05-23 17:29:45.579658] Jogador d possui 0 cartas.
